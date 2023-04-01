@@ -2,7 +2,7 @@
 
 <h1 align="center">Samuel Tessaro</h1>
 
-<h2> Sobre mim</h2>
+<h2>About me</h2>
 
 - Fundador da Nebulosy.
 - Fundador da NordKraken.
