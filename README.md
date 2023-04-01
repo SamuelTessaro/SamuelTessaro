@@ -53,9 +53,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph)
-
-[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
+[![Samuel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamuelTessaro&theme=merko)](https://github.com/SamuelTessaro/github-readme-activity-graph)
 
 <p>Template: [chandanck22](https://github.com/chandanck22/chandanck22)</p>
 
