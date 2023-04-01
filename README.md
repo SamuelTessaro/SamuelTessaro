@@ -57,5 +57,5 @@
 
 [![Samuel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamuelTessaro&theme=merko)](https://github.com/SamuelTessaro/github-readme-activity-graph)
 
-<p>Template: [chandanck22](https://github.com/chandanck22/chandanck22)</p>
+Template: [chandanck22](https://github.com/chandanck22/chandanck22)
 
