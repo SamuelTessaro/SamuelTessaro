@@ -3,9 +3,9 @@
 <h1 align="center">Samuel Tessaro</h1>
 
 <h2> Sobre mim</h2>
-- Fundador da Nebulosy;
-- Fundador da NordKraken;
-- Interessado por tecnologia;
+- Fundador da Nebulosy
+- Fundador da NordKraken
+- Interessado por tecnologia
 - Atualmente estudando **React, ReactNative e NodeJS**.
 
 <h3 align="left">Meus contatos</h3>
