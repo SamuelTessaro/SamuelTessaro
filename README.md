@@ -4,8 +4,8 @@
 
 <h2> Sobre mim</h2>
 
-- Fundador da Nebulosy
-- Fundador da NordKraken
+- Fundador da Nebulosy.
+- Fundador da NordKraken.
 - Interessado por tecnologia.
 - Atualmente estudando **React, ReactNative e NodeJS**.
 
