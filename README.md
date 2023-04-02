@@ -9,7 +9,7 @@
 - Interessado por tecnologia.
 - Atualmente estudando **React, ReactNative e NodeJS**.
 
-<h3 align="left">Meus contatos</h3>
+<h3 align="left">My contacts</h3>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/samuel-tessaro/">
