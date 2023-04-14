@@ -7,7 +7,7 @@
 - Fundador da Nebulosy.
 - Fundador da NordKraken.
 - Interessado por tecnologia.
-- Atualmente estudando **React, ReactNative e NodeJS**.
+- Atualmente estudando **TypeScript, React, ReactNative e NodeJS**.
 
 <h3 align="left">Contacts</h3>
 
